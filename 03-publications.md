@@ -20,6 +20,8 @@ permalink: /publications/
 
 - George Oikonomou, Simon Duquennoy, Atis Elsts, Joakim Eriksson, Yasuyuki Tanaka, and Nicolas Tsiftes. **The Contiki-NG open source operating system for next generation IoT devices**. _SoftwareX_. Vol 18, June 2022. ([DOI](https://doi.org/10.1016/j.softx.2022.101089))
 
+- Jämes Ménétrey, Christian Göttel, Anum Khurshid, Marcelo Pasin, Pascal Felber, Valerio Schiavoni, and Shahid Raza. **Attestation Mechanisms for Trusted Execution Environments Demystified**. arXiv preprint arXiv:2206.03780 (2022).
+
 - Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_, pages 70-81, April 2022. ([DOI](https://doi.org/10.1109/ICST53961.2022.00019), [PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
 
   [ICST-22-replication-material]: https://doi.org/10.5281/zenodo.5929867
@@ -28,7 +30,9 @@ permalink: /publications/
 
   [DemoVideo@ICST22]: https://youtu.be/KtEpwYC-f9M
 
-- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Accepted. To appear. ([DOI](https://10.1109/TDSC.2022.3147262))
+- Anum Khurshid, Sileshi  D. Yalew, Mudassar Aslam, Shahid Raza. **TEE-Watchdog: Mitigating unauthorized activities within Trusted Execution Environments in ARM-based low-power IoT devices**. _Security and Communication Networks (Wiley)_, May 2022.  ([DOI](https://doi.org/10.1155/2022/8033799))
+
+- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. January 2022. ([DOI](https://10.1109/TDSC.2022.3147262))
 
 ### 2021
 
